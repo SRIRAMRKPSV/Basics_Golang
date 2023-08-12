@@ -1,0 +1,1 @@
+this is the program to create and write in a file
